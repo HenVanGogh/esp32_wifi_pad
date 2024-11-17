@@ -1,0 +1,10 @@
+# Credentials
+include/credentials.h
+
+# Build directory
+.pio/
+build/
+
+# IDE specific files
+.vscode/
+.idea/
