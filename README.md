@@ -11,6 +11,7 @@ A web-based interface for monitoring and controlling ESP32 I/O states, featuring
 - JSON API endpoint
 - WebSocket support for real-time data streaming
 - Comprehensive unit testing framework
+![image](https://github.com/user-attachments/assets/b6ffc261-ab85-4fbb-a5c7-49a7864b63ff)
 
 ## Hardware Requirements
 
